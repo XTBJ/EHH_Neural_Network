@@ -8,3 +8,6 @@ If you have any questions, please contact us. Email: lzy13112288260@163.com
 # How to Run
 
 python run.py
+
+# Platform
+Visual Studio Code
